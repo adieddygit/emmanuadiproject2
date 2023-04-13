@@ -1,2 +1,1 @@
 git is a version control system
-it is the most preferably used version control platform
